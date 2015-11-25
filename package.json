@@ -5,13 +5,18 @@
   "scripts": {
     "test": "mocha test"
   },
+  "homepage": "https://github.com/jsreport/jsreport-analytics",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsreport/jsreport-analytics.git"
+  },
   "keywords": [
     "jsreport",
     "analytics"
   ],
   "license": "LGPL",
   "dependencies": {
-    "universal-analytics": "^0.3.9"
+    "universal-analytics": "0.3.9"
   },
   "author": "Jan Blaha",
   "devDependencies": {}
