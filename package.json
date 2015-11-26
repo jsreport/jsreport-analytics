@@ -1,6 +1,6 @@
 {
   "name": "jsreport-analytics",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "jsreport extension collecting some grouped information about usage",
   "scripts": {
     "test": "mocha test"
